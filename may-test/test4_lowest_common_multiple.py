@@ -13,7 +13,7 @@ def gcd(m, n):
     return m
 
 
-lcm = m*n// gcd(m,n)
-print(f"最大公约数：{gcd(m,n)}")
+lcm = m * n // gcd(m, n)
+print(f"最大公约数：{gcd(m, n)}")
 
 print(f"最小公倍数：{lcm}")

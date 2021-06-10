@@ -16,4 +16,3 @@ while True:
         print('合伙捕到{}条鱼'.format(cnt))
         break
     cnt += 1
-
